@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "47005001598",
+    "project_id": "xylophone-7c8a3",
+    "storage_bucket": "xylophone-7c8a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47005001598:android:fba51f6bcf7005a646752f",
+        "android_client_info": {
+          "package_name": "co.appbrewery.xylophone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47005001598-qumiesjmpnp291j82ji47vb617sb7coj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtuJbYIxPVguDz083LTOgh2vecwG4H9Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47005001598-qumiesjmpnp291j82ji47vb617sb7coj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "47005001598-eu4527mv4kj15u401qdp1ttu17ei3atg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.appbrewery.xylophone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
